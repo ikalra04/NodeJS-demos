@@ -1,0 +1,13 @@
+hello ikalra!hello ikalra !hello ikalra !hello ikalra !hello ikalra !hello ikalra ! Your age is 25hello ikalra ! Your age is 25hello ikalra ! Your age is undefinedhello ikalra ! Her is your notes function (){
+ console.log('add Notes');
+ return 'New note';
+}hello ikalra ! Her is your notes function (){
+ console.log('add Notes');
+ return 'New note';
+}hello ikalra ! Her is your notes function (){
+ console.log('add Notes');
+ return 'New note';
+}
+
+hello ikalra ! Her is your notes New note
+hello ikalra ! Here is your notes New notehello ikalra ! The sum is resulthello ikalra ! The sum is 12
